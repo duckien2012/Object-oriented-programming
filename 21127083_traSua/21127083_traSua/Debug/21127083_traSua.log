@@ -1,0 +1,4 @@
+﻿  file1.cpp
+C:\Users\Tom\Desktop\IT\OOP\21127083_traSua\21127083_traSua\file1.cpp(193,1): error C2600: 'LyNuocTuyBien::LyNuocTuyBien': cannot define a compiler-generated special member function (must be declared in the class first)
+  main.cpp
+  Generating Code...

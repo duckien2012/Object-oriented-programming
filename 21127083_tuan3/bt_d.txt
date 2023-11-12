@@ -1,0 +1,2 @@
+Dat Thanh - a : phương thức tạo lậ với hai tham số
+Hai Dang - b,clone : phương thức tạo lập sao chép

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="nhansu.cpp" />
+    <ClCompile Include="chuyenvien.cpp" />
+    <ClCompile Include="trogiang.cpp" />
+    <ClCompile Include="giangvien.cpp" />
+    <ClCompile Include="mainBT1.cpp" />
+    <ClCompile Include="nghiencuu.cpp" />
+    <ClCompile Include="thuctapsinh.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="nhansu.h" />
+  </ItemGroup>
+</Project>
